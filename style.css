@@ -1,0 +1,10 @@
+label {
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+input[type="text"] {
+    background-color: black;
+    color: white;
+}
